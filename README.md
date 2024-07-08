@@ -3,7 +3,7 @@
 - How to reach me: leileibama  AT  outlook  DOT  com
 
 
-### Recent publications
+### publications
 
 
 ### Books
