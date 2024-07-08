@@ -12,28 +12,25 @@
 
 Lei, L., & Liu, D. (2021). Conducting sentiment analysis (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781108909679
 
-雷蕾. 2020. 基于Python的语料库数据处理. 北京: 科学出版社. 
+雷蕾. (2020). 基于Python的语料库数据处理. 北京: 科学出版社. 
 
+Liu, D. & Lei, L. (2017). Using Corpora for Language Learning and Teaching. Alexandria, VA: TESOL Press.
+
+雷蕾. (2016). 应用语言学研究: 设计与方法. 武汉: 华中科技大学出版社. 
+
+雷蕾. (2013). 以汉语为母语双语者的双语句法表征和处理研究. 武汉: 华中科技大学出版社. 
 
 ### Articles
-
-雷蕾, 韦瑶瑜, & 刘康龙. (2024). AlphaReadabilityChinese: 汉语文本可读性工具开 发与应用. 外语与外语教学, 1, 83–93.
 
 Qin, J., Liu, D., & Lei, L. (2024). Cognitive linguistics-inspired language instruction. Language Teaching, 1–23. https://doi.org/10.1017/S0261444824000119
 
 Shi, Y., & Lei, L. (2024). Structural complexity in adapted reading materials: A study based on the amount of information. Reading Research Quarterly, rrq.547. https://doi.org/10.1002/rrq.547
-
-
-雷蕾. (2023). 语言数字人文: “小帐篷”理论框架. 外语与外语教学, 3, 64–73.
 
 Lei, L., & Shi, Y. (2023). Syntactic complexity in adapted extracurricular reading materials. System, 103002. https://doi.org/10.1016/j.system.2023.103002
 
 Lei, L., Deng, Y., & Liu, D. (2023). Research on the learning/teaching of L2 listening: A bibliometric review and its implications. Studies in Second Language Learning and Teaching, 13(4), 781–810. https://doi.org/10.14746/ssllt.40216
 
 Lei, L., Wen, J., & Yang, X. (2023). A large-scale longitudinal study of syntactic complexity development in EFL writing: A mixed-effects model approach. Journal of Second Language Writing, 59, 100962. https://doi.org/10.1016/j.jslw.2022.100962
-
-
-李辛, & 雷蕾. (2022). 中国非英语专业学习者书面语短语能力发展历时研究. 外语教学, 6, 63–69.
 
 Lei, L., & Qin, J. (2022). Research in foreign language teaching and learning in China (2012–2021). Language Teaching, 1–27. https://doi.org/10.1017/S0261444822000155
 
@@ -52,8 +49,6 @@ Wen, J., & Lei, L. (2022b). Linguistic positivity bias in academic writing: A la
 Zhu, Haoran, & Lei, Lei. (2022). The research trends of text classification studies (2000–2020): A bibliometric analysis. Sage Open, 1–16.
 
 
-李辛, 雷蕾. (2021). 输出任务对英语阅读中词汇附带习得的影响——基于国内相关研究的元分析. 解放军外国语学院学报, 6, 18–26.
-
 Cao, X., Lei, L., & Wen, J. (2021). Promoting science with linguistic devices: A large-scale study of positive and negative words in academic writing. Learned Publishing, 34(2), 82–88. https://doi.org/10.1002/leap.1322
 
 Deng, Y., Lei, L., & Liu, D. (2021). Calling for More Consistency, Refinement, and Critical Consideration in the Use of Syntactic Complexity Measures for Writing. Applied Linguistics, 42(5), 1021–1028. https://doi.org/10.1093/applin/amz069
@@ -67,9 +62,6 @@ Shi, Y., & Lei, L. (2021). Lexical use and social class: A study on lexical rich
 Zhu, H., & Lei, L. (2021). A dependency-based machine learning approach to the identification of research topics: A case in COVID-19 studies. Library Hi Tech. https://doi.org/10.1108/LHT-01-2021-0051
 
 Zhu, H., Lei, L., & Craig, H. (2021). Prose, verse and authorship in dream of the red chamber: A stylometric analysis. Journal of Quantitative Linguistics, 28(4), 289–305. https://doi.org/10.1080/09296174.2020.1724677
-
-
-刘迪麟, 雷蕾. (2020). 学术词表研究综述. 外语教学, 41(2), 34-38+50.
 
 Lei, L., & Jockers, M. L. (2020). Normalized Dependency Distance: Proposing a New Measure. Journal of Quantitative Linguistics, 27(1), 62–79. https://doi.org/10.1080/09296174.2018.1504615
 
@@ -87,14 +79,9 @@ Shi, Y., & Lei, L. (2020). The evolution of LGBT labelling words Tracking 150 ye
 
 Wu, X., Mauranen, A., & Lei, L. (2020). Syntactic complexity in English as a lingua franca academic writing. Journal of English for Academic Purposes, 43. https://doi.org/10.1016/j.jeap.2019.100798
 
-Yan, S., & Lei, L. (2020). Introducing corpus-based translation studies. Poznan Studies in Contemporary Linguistics, 56(2), 365–371. https://doi.org/10.1515/psicl-2020-0011
-
-
 Lei, L., & Liu, D. (2019a). Research Trends in Applied Linguistics from 2005 to 2016: A Bibliometric Analysis and Its Implications. Applied Linguistics, 40(3), 540–561. https://doi.org/10.1093/applin/amy003
 
 Lei, L., & Liu, D. (2019b). The research trends and contributions of System’s publications over the past four decades (1973-2017): A bibliometric analysis. System, 80, 1–13. https://doi.org/10.1016/j.system.2018.10.003
-
-Zhu, H., & Lei, L. (2019). Style, Computers, and Early Modern Drama: Beyond Authorship. Australian Journal of Linguistics, 39(4), 539–542. https://doi.org/10.1080/07268602.2018.1507617
 
 
 Lei, L., & Liu, D. (2018). The academic English collocation list A corpus-driven study. International Journal of Corpus Linguistics, 23(2), 216–243. https://doi.org/10.1075/ijcl.16135.lei
@@ -128,3 +115,45 @@ Lei, L., & Liu, Z. (2014). A word type-based quantitative study on the lexical c
 
 Lei, L. (2012). Linking adverbials in academic writing on applied linguistics by Chinese doctoral students. Journal of English for Academic Purposes, 11(3), 267–275. https://doi.org/10.1016/j.jeap.2012.05.003
 
+
+### Articles in Chinese journals
+
+雷蕾, 韦瑶瑜, & 刘康龙. (2024). AlphaReadabilityChinese: 汉语文本可读性工具开 发与应用. 外语与外语教学, 1, 83–93.
+
+雷蕾. (2023). 语言数字人文: “小帐篷”理论框架. 外语与外语教学, 3, 64–73.
+
+李辛, & 雷蕾. (2022). 中国非英语专业学习者书面语短语能力发展历时研究. 外语教学, 6, 63–69.
+
+李辛, 雷蕾. (2021). 输出任务对英语阅读中词汇附带习得的影响——基于国内相关研究的元分析. 解放军外国语学院学报, 6, 18–26.
+
+刘迪麟, 雷蕾. (2020). 学术词表研究综述. 外语教学, 41(2), 34-38+50.
+
+雷蕾. 2019. 语言学领域高被引论文: 文献计量分析. 当代外语研究. 1:67-76.
+
+施雅倩、雷蕾. 2018.《新闻价值话语》述评. 语料库语言学. 第1期.
+
+吴雪、雷蕾，2018. 二语水平与句法复杂度研究元分析. 现代外语. 第4期. 481-492. 
+
+张英、雷蕾，2018. 学术语篇中名词+补足语结构立场表达. 解放军外国语学院学报. 第1期. 39-47.  
+
+雷蕾，2017. 中国英语学习者学术写作句法复杂度研究. 解放军外国语学院学报. 第5期. 1-10. 
+
+吴雪，雷蕾，2015.《话语分析与媒体态度：伊斯兰教在英国媒体中的呈现》评介. 现代外语.第3期. 
+
+张英，雷蕾，2015. 中国大学生语料库辅助外语写作态度调查. 当代外语研究. 第4期. 
+
+雷蕾，潘璠，2012.《定量语料库语言学与R编程:实用导论》述评，外语教学理论与实践，第4期.
+
+雷蕾.  2010. 《三语或多语习得》述评. 现代外语. 2010年第2期.
+
+雷蕾，王同顺，2009. 双语句法表征——来自汉英不平衡双语者句法启动的证据，现代外语，第2期.
+
+雷蕾，2009. 结构方程建模及AMOS软件在应用语言学研究中的应用，中国外语，第1期.
+
+赵庆红、雷蕾、张梅，2009. 学生英语学习需求视角下的大学英语教学，外语界，第4期.
+
+雷蕾，韦瑶瑜，叶琳，张梅，2007. 中国非英语专业大学生通过写作附带习得词汇实证研究，解放军外国语学院学报，第1期.
+
+雷蕾，韦瑶瑜，2005. VocabProfile在英语教学中的应用，外语电化教学，第4期.
+
+韦瑶瑜，雷蕾，2004. 中国英语学习者使用SIB材料的调查报告，外语电化教学，第2期.
