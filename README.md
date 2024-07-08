@@ -95,3 +95,36 @@ Lei, L., & Liu, D. (2019a). Research Trends in Applied Linguistics from 2005 to 
 Lei, L., & Liu, D. (2019b). The research trends and contributions of System’s publications over the past four decades (1973-2017): A bibliometric analysis. System, 80, 1–13. https://doi.org/10.1016/j.system.2018.10.003
 
 Zhu, H., & Lei, L. (2019). Style, Computers, and Early Modern Drama: Beyond Authorship. Australian Journal of Linguistics, 39(4), 539–542. https://doi.org/10.1080/07268602.2018.1507617
+
+
+Lei, L., & Liu, D. (2018). The academic English collocation list A corpus-driven study. International Journal of Corpus Linguistics, 23(2), 216–243. https://doi.org/10.1075/ijcl.16135.lei
+
+Lei, L., & Zhang, Y. (2018). Lack of Improvement in Scientific Integrity: An Analysis of WoS Retractions by Chinese Researchers (1997-2016). Science and Engineering Ethics, 24(5), 1409–1420. https://doi.org/10.1007/s11948-017-9962-7
+
+Liu, D., & Lei, L. (2018). The appeal to political sentiment: An analysis of Donald Trump’s and Hillary Clinton’s speech themes and discourse strategies in the 2016 US presidential election. Discourse Context & Media, 25, 143–152. https://doi.org/10.1016/j.dcm.2018.05.001
+
+Wei, Y., & Lei, L. (2018). Institution bias in the New England Journal of Medicine? A bibliometric analysis of publications (1997-2016). Scientometrics, 117(3), 1771–1775. https://doi.org/10.1007/s11192-018-2948-7
+
+Zhu, H., & Lei, L. (2018a). British Cultural Complexity: An Entropy-based Approach. Journal of Quantitative Linguistics, 25(2), 190–205. https://doi.org/10.1080/09296174.2017.1348014
+
+Zhu, H., & Lei, L. (2018b). Is Modern English becoming less inflectionally diversified? Evidence from entropy-based algorithm. Lingua, 216, 10–27. https://doi.org/10.1016/j.lingua.2018.10.006
+
+Wu, X., & Lei, L. (2017). Pragmatic force modifiers in EFL academic discussions. Poznan Studies in Contemporary Linguistics, 53(3), 423–448. https://doi.org/10.1515/psicl-2017-0016
+
+
+Liao, S., & Lei, L. (2017). What We Talk about When We Talk about Corpus: A Bibliometric Analysis of Corpus-related Research in Linguistics (2000-2015). Glottometrics, 38, 1–20.
+
+Lei, L., & Liao, S. (2017). Publications in Linguistics Journals from Mainland China, Hong Kong, Taiwan, and Macau (2003-2012): A Bibliometric Analysis. Journal of Quantitative Linguistics, 24(1), 54–64. https://doi.org/10.1080/09296174.2016.1260274
+
+
+Lei, L., & Yan, S. (2016). Readability and citations in information science: Evidence from abstracts and articles of four journals (2003-2012). Scientometrics, 108(3), 1155–1169. https://doi.org/10.1007/s11192-016-2036-9
+
+Lei, L. (2016). When science meets cluttered writing: Adjectives and adverbs in academia revisited. Scientometrics, 107(3), 1361–1372. https://doi.org/10.1007/s11192-016-1896-3
+
+Lei, L., & Liu, D. (2016). A new medical academic word list: A corpus-based study with enhanced methodology. Journal of English for Academic Purposes, 22, 42–53. https://doi.org/10.1016/j.jeap.2016.01.008
+
+
+Lei, L., & Liu, Z. (2014). A word type-based quantitative study on the lexical change of American and British English. Journal of Quantitative Linguistics, 21(1), 36–49. https://doi.org/10.1080/09296174.2013.856131
+
+Lei, L. (2012). Linking adverbials in academic writing on applied linguistics by Chinese doctoral students. Journal of English for Academic Purposes, 11(3), 267–275. https://doi.org/10.1016/j.jeap.2012.05.003
+
