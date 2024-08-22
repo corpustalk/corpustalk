@@ -1,5 +1,4 @@
-- Hi, I’m @corpustalk
-- I’m interested in corpus linguistics and the use of NLP techniques for linguistics research. 
+- Hi, I’m @corpustalk, a researcher in corpus linguistics and the use of NLP techniques for linguistics research. 
 - How to reach me: leileibama  AT  outlook  DOT  com
 
 
