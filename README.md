@@ -15,15 +15,17 @@ Lei, L., & Liu, D. (2021). Conducting sentiment analysis (1st ed.). Cambridge Un
 
 ### Articles
 
-Qin, J., Liu, D., & Lei, L. (2024). Cognitive linguistics-inspired language instruction. Language Teaching, 1–23. https://doi.org/10.1017/S0261444824000119
+Zhang, T., Li, J., & Lei, L.. (accepted). The diachronic change of English relativizers: A case study in the State of the Union addresses across two centuries. _Corpus Linguistics and Linguistic Theory_.
 
-Shi, Y., & Lei, L. (2024). Structural complexity in adapted reading materials: A study based on the amount of information. Reading Research Quarterly, rrq.547. https://doi.org/10.1002/rrq.547
+Qin, J., Liu, D., & Lei, L. (2024). Cognitive linguistics-inspired language instruction. _Language Teaching_, 1–23. https://doi.org/10.1017/S0261444824000119
 
-Lei, L., & Shi, Y. (2023). Syntactic complexity in adapted extracurricular reading materials. System, 103002. https://doi.org/10.1016/j.system.2023.103002
+Shi, Y., & Lei, L. (2024). Structural complexity in adapted reading materials: A study based on the amount of information. _Reading Research Quarterly_, rrq.547. https://doi.org/10.1002/rrq.547
 
-Lei, L., Deng, Y., & Liu, D. (2023). Research on the learning/teaching of L2 listening: A bibliometric review and its implications. Studies in Second Language Learning and Teaching, 13(4), 781–810. https://doi.org/10.14746/ssllt.40216
+Lei, L., & Shi, Y. (2023). Syntactic complexity in adapted extracurricular reading materials. _System_, 103002. https://doi.org/10.1016/j.system.2023.103002
 
-Lei, L., Wen, J., & Yang, X. (2023). A large-scale longitudinal study of syntactic complexity development in EFL writing: A mixed-effects model approach. Journal of Second Language Writing, 59, 100962. https://doi.org/10.1016/j.jslw.2022.100962
+Lei, L., Deng, Y., & Liu, D. (2023). Research on the learning/teaching of L2 listening: A bibliometric review and its implications. _Studies in Second Language Learning and Teaching_, 13(4), 781–810. https://doi.org/10.14746/ssllt.40216
+
+Lei, L., Wen, J., & Yang, X. (2023). A large-scale longitudinal study of syntactic complexity development in EFL writing: A mixed-effects model approach. _Journal of Second Language Writing_, 59, 100962. https://doi.org/10.1016/j.jslw.2022.100962
 
 雷蕾, 韦瑶瑜, 刘康龙. (2024). AlphaReadabilityChinese: 汉语文本可读性工具开 发与应用. 外语与外语教学, 1, 83–93.
 
