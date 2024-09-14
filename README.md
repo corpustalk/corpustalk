@@ -9,7 +9,7 @@
 
 施雅倩, 雷蕾. (2023). 语言数字人文与R语言实践. 上海交通大学出版社.
 
-Lei, L., & Liu, D. (2021). Conducting sentiment analysis (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781108909679
+Lei, L., & Liu, D. (2021). _Conducting sentiment analysis_. Cambridge University Press. https://doi.org/10.1017/9781108909679
 
 雷蕾. (2020). 基于Python的语料库数据处理. 北京: 科学出版社. 
 
