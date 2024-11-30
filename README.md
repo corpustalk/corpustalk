@@ -13,7 +13,7 @@ Lei, L., & Liu, D. (2021). _Conducting sentiment analysis_. Cambridge University
 
 雷蕾. (2020). 基于Python的语料库数据处理. 北京: 科学出版社. 
 
-### Articles (2023-)
+### Articles (2023- )
 
 雷蕾, 韦瑶瑜, 刘康龙. (2024). AlphaReadabilityChinese: 汉语文本可读性工具开 发与应用. 外语与外语教学, 1, 83–93.
 
