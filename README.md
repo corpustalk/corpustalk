@@ -15,6 +15,10 @@ Lei, L., & Liu, D. (2021). _Conducting sentiment analysis_. Cambridge University
 
 ### Articles
 
+雷蕾, 韦瑶瑜, 刘康龙. (2024). AlphaReadabilityChinese: 汉语文本可读性工具开 发与应用. 外语与外语教学, 1, 83–93.
+
+雷蕾. (2023). 语言数字人文: “小帐篷”理论框架. 外语与外语教学, 3, 64–73.
+
 Jia, X., Wei, Y., Liu, K., & Lei, L. (in production). Developing and Validating an Academic Vocabulary List in Chinese. _International Journal of Applied Linguistics_. https://doi.org/10.1111/ijal.12675. 
 
 Zhang, T., Li, J., & Lei, L. (2024). The diachronic change of English relativizers: A case study in the State of the Union addresses across two centuries. _Corpus Linguistics and Linguistic Theory_. 1-31. https://doi.org/10.1515/cllt-2023-0114
@@ -29,6 +33,3 @@ Lei, L., Deng, Y., & Liu, D. (2023). Research on the learning/teaching of L2 lis
 
 Lei, L., Wen, J., & Yang, X. (2023). A large-scale longitudinal study of syntactic complexity development in EFL writing: A mixed-effects model approach. _Journal of Second Language Writing_, 59, 100962. https://doi.org/10.1016/j.jslw.2022.100962
 
-雷蕾, 韦瑶瑜, 刘康龙. (2024). AlphaReadabilityChinese: 汉语文本可读性工具开 发与应用. 外语与外语教学, 1, 83–93.
-
-雷蕾. (2023). 语言数字人文: “小帐篷”理论框架. 外语与外语教学, 3, 64–73.
