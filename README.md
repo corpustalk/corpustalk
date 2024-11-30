@@ -15,7 +15,9 @@ Lei, L., & Liu, D. (2021). _Conducting sentiment analysis_. Cambridge University
 
 ### Articles
 
-Zhang, Tingyu, Li, Jinman, & Lei, Lei. (2024). The diachronic change of English relativizers: A case study in the State of the Union addresses across two centuries. _Corpus Linguistics and Linguistic Theory_. 1-31. https://doi.org/10.1515/cllt-2023-0114
+Jia, Xiaogang; Wei, Yaoyu; Liu, Kanglong & Lei, Lei. (in production). Developing and Validating an Academic Vocabulary List in Chinese. _International Journal of Applied Linguistics_. https://doi.org/10.1111/ijal.12675. 
+
+Zhang, Tingyu; Li, Jinman & Lei, Lei. (2024). The diachronic change of English relativizers: A case study in the State of the Union addresses across two centuries. _Corpus Linguistics and Linguistic Theory_. 1-31. https://doi.org/10.1515/cllt-2023-0114
 
 Qin, J., Liu, D., & Lei, L. (2024). Cognitive linguistics-inspired language instruction. _Language Teaching_, 1–23. https://doi.org/10.1017/S0261444824000119
 
