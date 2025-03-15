@@ -19,6 +19,7 @@ Lei, L., & Liu, D. (2021). _Conducting sentiment analysis_. Cambridge University
 
 雷蕾. (2023). 语言数字人文: “小帐篷”理论框架. 外语与外语教学, 3, 64–73.
 
+Li, Z., & Lei, L. (accepted). Deciphering Cross-Genre Dynamics Testing the Law of Abbreviation and the Meaning-Frequency Law in Chinese across Genres. *Lingua*. 
 Jia, X., Wei, Y., Liu, K., & Lei, L. (2024). Developing and Validating an Academic Vocabulary List in Chinese. _International Journal of Applied Linguistics_. https://doi.org/10.1111/ijal.12675. 
 
 Zhang, T., Li, J., & Lei, L. (2024). The diachronic change of English relativizers: A case study in the State of the Union addresses across two centuries. _Corpus Linguistics and Linguistic Theory_. 1-31. https://doi.org/10.1515/cllt-2023-0114
