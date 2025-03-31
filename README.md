@@ -15,9 +15,13 @@ Lei, L., & Liu, D. (2021). _Conducting sentiment analysis_. Cambridge University
 
 ### Articles (2023- )
 
+** In Chinese **
+
 雷蕾, 韦瑶瑜, 刘康龙. (2024). AlphaReadabilityChinese: 汉语文本可读性工具开 发与应用. 外语与外语教学, 1, 83–93.
 
 雷蕾. (2023). 语言数字人文: “小帐篷”理论框架. 外语与外语教学, 3, 64–73.
+
+** In English **
 
 Li, Z., & Lei, L. (2025). Deciphering Cross-Genre Dynamics Testing the Law of Abbreviation and the Meaning-Frequency Law in Chinese across Genres. *Lingua*. https://doi.org/10.1016/j.lingua.2025.103934
 
