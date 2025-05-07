@@ -23,6 +23,8 @@ __In Chinese__
 
 __In English__
 
+Zhao, Ning & Lei, Lei. (2025). Chipola: A Chinese podcast lexical database for capturing spoken language nuances and predicting behavioral data. *Behavior Research Methods*. https://doi.org/10.3758/s13428-025-02697-0
+
 Li, Z., & Lei, L. (2025). Deciphering Cross-Genre Dynamics Testing the Law of Abbreviation and the Meaning-Frequency Law in Chinese across Genres. *Lingua*. https://doi.org/10.1016/j.lingua.2025.103934
 
 Jia, X., Wei, Y., Liu, K., & Lei, L. (2024). Developing and Validating an Academic Vocabulary List in Chinese. _International Journal of Applied Linguistics_. https://doi.org/10.1111/ijal.12675. 
