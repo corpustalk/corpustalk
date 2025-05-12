@@ -23,6 +23,8 @@ __In Chinese__
 
 __In English__
 
+Song, Jiamiao * Lei, Lei. (Accepted). Lexical bloom, syntactic retreat: examining complexity trade-offs within Classical Chinese evolution across two millennia. Corpus Linguistics and Linguistic Theory. 
+
 Zhao, Ning & Lei, Lei. (2025). Chipola: A Chinese podcast lexical database for capturing spoken language nuances and predicting behavioral data. *Behavior Research Methods*. https://doi.org/10.3758/s13428-025-02697-0
 
 Li, Z., & Lei, L. (2025). Deciphering Cross-Genre Dynamics Testing the Law of Abbreviation and the Meaning-Frequency Law in Chinese across Genres. *Lingua*. https://doi.org/10.1016/j.lingua.2025.103934
