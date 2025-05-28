@@ -23,7 +23,7 @@ __In Chinese__
 
 __In English__
 
-Zhu, Hongao, & Lei, Lei. (2025). Detecting Authorship Between Generative AI Models and Humans: A Burrows’s Delta Approach. Digital Scholarship in the Humanities.
+Zhu, Hongao, & Lei, Lei. (2025). Detecting Authorship Between Generative AI Models and Humans: A Burrows’s Delta Approach. Digital Scholarship in the Humanities. https://doi.org/10.1093/llc/fqaf048
 
 Song, Jiamiao & Lei, Lei. (2025). Lexical bloom, syntactic retreat: examining complexity trade-offs within Classical Chinese evolution across two millennia. Corpus Linguistics and Linguistic Theory. 
 
