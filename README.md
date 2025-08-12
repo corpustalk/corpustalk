@@ -17,7 +17,7 @@ Lei, L., & Liu, D. (2021). _Conducting sentiment analysis_. Cambridge University
 
 __In Chinese__
 
-雷蕾, 韦瑶瑜, 刘康龙. (2024). AlphaReadabilityChinese: 汉语文本可读性工具开 发与应用. 外语与外语教学, 1, 83–93.
+雷蕾, 韦瑶瑜, 刘康龙. (2024). AlphaReadabilityChinese: 汉语文本可读性工具开发与应用. 外语与外语教学, 1, 83–93.
 
 雷蕾. (2023). 语言数字人文: “小帐篷”理论框架. 外语与外语教学, 3, 64–73.
 
