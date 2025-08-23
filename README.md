@@ -33,6 +33,8 @@ Zhao, Ning & Lei, Lei. (2025). Chipola: A Chinese podcast lexical database for c
 
 Li, Z., & Lei, L. (2025). Deciphering Cross-Genre Dynamics Testing the Law of Abbreviation and the Meaning-Frequency Law in Chinese across Genres. *Lingua*. https://doi.org/10.1016/j.lingua.2025.103934
 
+Shi, Y., Zhang, Y., & Lei, L. (2025). Unmasking mental distress: Exploring the spectrum of cognitive distortions associated with symptoms of anxiety, depression, and suicidal ideation. Cognitive Processing. https://doi.org/10.1007/s10339-025-01301-9
+
 Li, Z., Shi, Y., & Lei, L. (2025). Metaphor as a springboard to scientific communication: A large-scale study of the use of lexical metaphors across disciplines. _Humanities and Social Sciences Communications_, 12(1), 1288. https://doi.org/10.1057/s41599-025-05677-z
 
 Jia, X., Wei, Y., Liu, K., & Lei, L. (2024). Developing and Validating an Academic Vocabulary List in Chinese. _International Journal of Applied Linguistics_. https://doi.org/10.1111/ijal.12675. 
