@@ -37,6 +37,8 @@ Shi, Y., Zhang, Y., & Lei, L. (2025). Unmasking mental distress: Exploring the s
 
 Li, Z., Shi, Y., & Lei, L. (2025). Metaphor as a springboard to scientific communication: A large-scale study of the use of lexical metaphors across disciplines. _Humanities and Social Sciences Communications_, 12(1), 1288. https://doi.org/10.1057/s41599-025-05677-z
 
+Qiu, Z., Zhang, L., & Lei, L. (2025). Big Five Personalities Across 200 Years: A Large-Scale Study on the Description of Male- and Female-Dominated Occupations. Digital Studies in Language and Literature. https://doi.org/10.1515/dsll-2025-0010
+
 Jia, X., Wei, Y., Liu, K., & Lei, L. (2024). Developing and Validating an Academic Vocabulary List in Chinese. _International Journal of Applied Linguistics_. https://doi.org/10.1111/ijal.12675. 
 
 Zhang, T., Li, J., & Lei, L. (2024). The diachronic change of English relativizers: A case study in the State of the Union addresses across two centuries. _Corpus Linguistics and Linguistic Theory_. 1-31. https://doi.org/10.1515/cllt-2023-0114
