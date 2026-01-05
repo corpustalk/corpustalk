@@ -23,6 +23,8 @@ __In Chinese__
 
 __In English__
 
+Song, Jiamiao  & Lei, Lei. 2026. Testing Zipfian and Heaps’ Laws in Classical Chinese: Diachronic Parameter Dynamics and Lexical Diversity Over Two Millennia. Journal of Quantitative Linguistics. https://doi.org/10.1080/09296174.2025.2611528
+
 Zhang, H., & Lei, L. (2025). AlphaLexChinese: Measuring lexical complexity in Chinese texts and its predictive validity for L2 writing scores. _System_, 103809. https://doi.org/10.1016/j.system.2025.103809
 
 Lei, Lei &  Shi, Yaqian. (2025). AlphaDepLength: A New Measure of Syntactic Complexity Based on Communicative Efficiency and Its Prediction of Reading Time. _Journal of Quantitative Linguistics_. https://doi.org/10.1080/09296174.2025.2559597
