@@ -17,9 +17,9 @@ Lei, L., & Liu, D. (2021). _Conducting sentiment analysis_. Cambridge University
 
 __In Chinese__
 
-雷蕾、韦瑶瑜. (2025). 古代汉语词汇复杂度：指标体系与测量工具. 外语电化教学, 6.
+雷蕾、韦瑶瑜. (2025). 古代汉语词汇复杂度：指标体系与测量工具. 外语电化教学, 6. 18-25. 
 
-张婷玉、雷蕾. (2025). 面向国际中文教育的阅读文本自动分级模型：开发与应用. 语言文字应用, 4.
+张婷玉、雷蕾. (2025). 面向国际中文教育的阅读文本自动分级模型：开发与应用. 语言文字应用, 4. 48-59. 
 
 雷蕾, 韦瑶瑜, 刘康龙. (2024). AlphaReadabilityChinese: 汉语文本可读性工具开发与应用. 外语与外语教学, 1, 83–93.
 
@@ -32,7 +32,7 @@ Shi, Y. & Lei, L. (accepted). National citizens in a sanitized vision of global 
 
 Zhao, Ning, Liu, Kanglong & Lei, Lei. (accepted). Complexity Trade-Offs in Language Production Across Lexical, Syntactic, and Semantic Domains. _Linguistics Vanguard_.
 
-Zhang, Tingyu, & Lei, Lei. (accepted). The digital whisperer: deciphering topics and sentiments towards ChatGPT on X (Twitter). _Online Information Review_. 
+Zhang, Tingyu, & Lei, Lei. (2026). The digital whisperer: deciphering topics and sentiments towards ChatGPT on X (Twitter). _Online Information Review_. https://doi.org/10.1108/OIR-05-2024-0338
 
 Zhao, Ning & Lei, Lei. (2026). Informality features in AI-generated academic writing: A corpus-based comparison between human and AI. _Journal of English for Academic Purposes_, 79, 101629. https://doi.org/10.1016/j.jeap.2026.101629
 
