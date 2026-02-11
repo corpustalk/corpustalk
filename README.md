@@ -30,7 +30,7 @@ __In English__
 
 Shi, Y. & Lei, L. (accepted). National citizens in a sanitized vision of global economy in Japanese ELT Textbooks. _Journal of Language and Politics_. 
 
-Zhao, Ning, Liu, Kanglong & Lei, Lei. (accepted). Complexity Trade-Offs in Language Production Across Lexical, Syntactic, and Semantic Domains. _Linguistics Vanguard_.
+Zhao, Ning, Liu, Kanglong & Lei, Lei. (2026). Complexity Trade-Offs in Language Production Across Lexical, Syntactic, and Semantic Domains. _Linguistics Vanguard_.
 
 Zhang, Tingyu, & Lei, Lei. (2026). The digital whisperer: deciphering topics and sentiments towards ChatGPT on X (Twitter). _Online Information Review_. https://doi.org/10.1108/OIR-05-2024-0338
 
