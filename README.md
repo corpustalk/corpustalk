@@ -40,6 +40,8 @@ Song, Jiamiao  & Lei, Lei. (2026). Testing Zipfian and Heaps’ Laws in Classica
 
 Hu, Y., Liu, K., & Lei, L. (2026). Quantifying Syntagmatic Patterning in Translated and Native Chinese: An R-Motif Approach Based on POS Sequences. _Journal of Quantitative Linguistics_, 1–25. https://doi.org/10.1080/09296174.2026.2634477
 
+Jiang, Z., Lv, Q., Zhang, Z., & Lei, L. (2026). Distinguishing ChatGPT‐Generated Translation From Neural Machine Translation and Human Translation: A Linguistic and Stylistic Approach. _International Journal of Applied Linguistics_, https://doi.org/10.1111/ijal.70160
+
 
 Zhang, H., & Lei, L. (2025). AlphaLexChinese: Measuring lexical complexity in Chinese texts and its predictive validity for L2 writing scores. _System_, 103809. https://doi.org/10.1016/j.system.2025.103809
 
